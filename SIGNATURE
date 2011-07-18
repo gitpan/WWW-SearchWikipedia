@@ -1,0 +1,43 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.66.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 b409da5e046642e3161d1cb9cc0b56118ff1638b Build.PL
+SHA1 4dfb970ce3f6385c1410a9ce640cc618cebb157e Changes
+SHA1 c39f61d61fa0e45ea26aa16626d895e0348951c5 MANIFEST
+SHA1 7d20e4e840781030202bb045d5ab81b3fd1b68b0 MANIFEST.SKIP
+SHA1 78cfa45ec850b35c240426e24ac9b0fb5c24b5ea META.yml
+SHA1 975a81fb987411ab4708aeb76d08b14f00437156 Makefile.PL
+SHA1 b2433f0aabbcb8178b4f54d7f0531a5ef294129b README
+SHA1 55fbdb1d8f0d61dc404a3b56722ba05799b0b2d5 lib/WWW/SearchWikipedia.pm
+SHA1 03ff07ce5e2eb75784ccbd89984ccbcc8c31b31b t/00-load.t
+SHA1 3b6e5b121678885dec9d3995a0dcb2e01404ea1c t/01-new.t
+SHA1 976b6dc4b577f41bdeabc48c8784737b2ff11c1d t/02-article.t
+SHA1 74dcae2571b677c1b5ce37267e01c9051b635db1 t/03-gowalla.t
+SHA1 b4c3b856b857bc23b155c78031dd2b3094c317f8 t/04-foursquare.t
+SHA1 0afa80fa530a1728ef57aee1878c689e485dab2a t/05-woeid.t
+SHA1 2b8ffb7e4f399af95d092743846ac8d438f2c53e t/manifest.t
+SHA1 0765c9ff0cc4319f415bb08d0053b7717a8284a2 t/pod.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (MingW32)
+
+iQEcBAEBAgAGBQJOJDmsAAoJEPYcXBXhRYOhSUwH/jVcIJFjEEe/al9eWeLdDSmj
+KzDVRQcosoKtcNp3CjxWAiYhIeU3bZvEby17AELCatbXKKhlcml9nHGdV6naecmw
+XqPUfItqk2jhtBqoLNkZp5SHw8LaevfH2yqyuNiyq+7Yjn+V+M/AdwbjxxDc9nYN
+DuUyVN2PAN3aawmZYleL7dVMBbtKIewg1Q3XYndVrEl3Y2um2AkC91rPISf7hUmp
+x/pSGptKIL7GRmFcktlhX2+7IsRKIjsHXirxe9mykzGuXggwHdAEpn6kexmnasZo
+60QtBQZ7C8aS2oujMf97TL9UBCURLwd+mO6vesfpvFFVcwiS61Ih0O/DDE/Ztx8=
+=TClx
+-----END PGP SIGNATURE-----

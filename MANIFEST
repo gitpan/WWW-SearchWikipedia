@@ -1,0 +1,18 @@
+Build.PL
+Changes
+MANIFEST
+MANIFEST.SKIP
+SIGNATURE
+Makefile.PL
+README
+lib/WWW/SearchWikipedia.pm
+t/00-load.t
+t/01-new.t
+t/02-article.t
+t/03-gowalla.t
+t/04-foursquare.t
+t/05-woeid.t
+t/manifest.t
+t/pod.t
+META.yml
+SIGNATURE    Added here by Module::Build
