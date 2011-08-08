@@ -1,4 +1,8 @@
 Revision history for WWW-SearchWikipedia
 
+0.02    Mon Aug 08 09:46:11 2011
+        - Made Readonly v1.03 as minimum requirement. RT# 69638.
+        - Also prepared the distribution using the Module::Signature v0.68.
+
 0.01    Mon Jul 18 14:45:00 2011
         - First version, released.

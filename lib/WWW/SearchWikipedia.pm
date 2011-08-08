@@ -18,11 +18,11 @@ WWW::SearchWikipedia - Interface to Search Wikipedia API.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 Readonly my $BASE_URL => 'http://api.wikilocation.org/';
 Readonly my $LOCALE   => 
 {

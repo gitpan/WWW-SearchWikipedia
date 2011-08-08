@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.66.
+signed via the Module::Signature module, version 0.68.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 b409da5e046642e3161d1cb9cc0b56118ff1638b Build.PL
-SHA1 4dfb970ce3f6385c1410a9ce640cc618cebb157e Changes
+SHA1 3350a4300a16871183e59e27423c516383bdc85a Build.PL
+SHA1 a96c451823a6b097018af303e2a0a8677dfa6897 Changes
 SHA1 c39f61d61fa0e45ea26aa16626d895e0348951c5 MANIFEST
 SHA1 7d20e4e840781030202bb045d5ab81b3fd1b68b0 MANIFEST.SKIP
-SHA1 78cfa45ec850b35c240426e24ac9b0fb5c24b5ea META.yml
-SHA1 975a81fb987411ab4708aeb76d08b14f00437156 Makefile.PL
+SHA1 ab89f54de0f9e5d07b87be811c5cb9e657002697 META.yml
+SHA1 1af0d67dc01a92a07b17649a3557afa5ebf153b1 Makefile.PL
 SHA1 b2433f0aabbcb8178b4f54d7f0531a5ef294129b README
-SHA1 55fbdb1d8f0d61dc404a3b56722ba05799b0b2d5 lib/WWW/SearchWikipedia.pm
+SHA1 44ad28ebcf19610dad5b73374941f4d59a54f251 lib/WWW/SearchWikipedia.pm
 SHA1 03ff07ce5e2eb75784ccbd89984ccbcc8c31b31b t/00-load.t
 SHA1 3b6e5b121678885dec9d3995a0dcb2e01404ea1c t/01-new.t
 SHA1 976b6dc4b577f41bdeabc48c8784737b2ff11c1d t/02-article.t
@@ -33,11 +33,11 @@ SHA1 0765c9ff0cc4319f415bb08d0053b7717a8284a2 t/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.14 (MingW32)
 
-iQEcBAEBAgAGBQJOJDmsAAoJEPYcXBXhRYOhSUwH/jVcIJFjEEe/al9eWeLdDSmj
-KzDVRQcosoKtcNp3CjxWAiYhIeU3bZvEby17AELCatbXKKhlcml9nHGdV6naecmw
-XqPUfItqk2jhtBqoLNkZp5SHw8LaevfH2yqyuNiyq+7Yjn+V+M/AdwbjxxDc9nYN
-DuUyVN2PAN3aawmZYleL7dVMBbtKIewg1Q3XYndVrEl3Y2um2AkC91rPISf7hUmp
-x/pSGptKIL7GRmFcktlhX2+7IsRKIjsHXirxe9mykzGuXggwHdAEpn6kexmnasZo
-60QtBQZ7C8aS2oujMf97TL9UBCURLwd+mO6vesfpvFFVcwiS61Ih0O/DDE/Ztx8=
-=TClx
+iQEcBAEBAgAGBQJOP6NzAAoJEPYcXBXhRYOhAF8H/jWjqb6qZQTGdZQcNyMdyH34
+DwvI219gmRH73S85PpdhqKWA2zMycLfrBafi04bWtLC9oaSGeAHFrk9c/D3JR8SB
+qyjlA2HEKH6n6Q0xCfpT8pqv8x6sw34H6g99RUHCgwY3EMfscuLGhrvQUydeJtTX
+UmxPNbSv1tkAd5O9/FCuOHDnKGczSyc8NiRqNzZMxt7A1ixl08GXDaEdX7ab9EiW
+/fCeC/VFIgqPjNXJJ5O21rap1AqFpl/lrXhqZ+bFiYi6TgItN4VpSoEXh9tjt7M5
+mf9oO/2AzsvWCvzEOY4O5gdhWWQb0UiggBGrPyYOklqpIK4Ih4zXnKPWhj0fT08=
+=fGQT
 -----END PGP SIGNATURE-----

@@ -10,7 +10,7 @@ WriteMakefile(
     clean         => { FILES => 'WWW-SearchWikipedia-*' },
     PREREQ_PM     => {
         'Test::More'  => 0,
-        'Readonly'    => 0,
+        'Readonly'    => '1.03',
         'Moose'       => '2.0006',
         'HTTP::Request'    => '1.40',
         'LWP::UserAgent'   => '2.33',
